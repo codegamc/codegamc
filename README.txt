@@ -1,3 +1,9 @@
+This is the personal page for Michael Codega.
+
+The code behind the page is based off of the CCA 3.0 licensed "Read Only" sample page by HTML5 UP.  Full credits at the bottom of the README as well as on the webpage (work in progress).  
+
+
+
 Read Only by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
