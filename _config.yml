@@ -28,7 +28,7 @@ markdown: kramdown
 theme: jekyll-theme-architect
 plugins_dir:
   - jekyll-feed
-baseUrl: http://codega.xyz
+#baseUrl: http://codega.xyz
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
