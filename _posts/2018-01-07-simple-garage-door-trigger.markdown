@@ -7,3 +7,4 @@ categories: iot cortex garage-door
 
 # DIY Internet Connected Garade Door
 
+This is a draft, you should not be seeing this
